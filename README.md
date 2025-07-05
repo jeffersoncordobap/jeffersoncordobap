@@ -13,7 +13,7 @@
 
 ### 📫 Conectemos:
 - [LinkedIn](linkedin.com/in/jefferson-johan-cordoba-pinchao-54238a373)
-- 📧 jefferson.cordobap@gmail.com
+- 📧 jeffersoncordobap@gmail.com
 
 ---
 
