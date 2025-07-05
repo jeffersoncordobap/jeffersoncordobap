@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Jefferson Johan Cordoba Pinchao
 
-<!--
-**jeffersoncordobap/jeffersoncordobap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería de Sistemas en la Universidad de Nariño  
+💻 Apasionado por el desarrollo de software, el aprendizaje constante y la tecnología
 
-Here are some ideas to get you started:
+### 💡 Tecnologías y herramientas:
+- Python · POO · Git · GitHub  
+- Bases de datos (MySQL, PostgreSQL)  
+- Interfaces gráficas con PySide6  
+- Desarrollo web con HTML · CSS · JavaScript · Django  
+- Explorando: Arquitectura en la nube ☁️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📫 Conectemos:
+- [LinkedIn](linkedin.com/in/jefferson-johan-cordoba-pinchao-54238a373)
+- 📧 jefferson.cordobap@gmail.com
+
+---
+
+Gracias por visitar mi perfil 💙
+
