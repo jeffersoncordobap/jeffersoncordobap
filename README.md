@@ -7,7 +7,7 @@
 - Python · POO · Git · GitHub  
 - Bases de datos (MySQL, PostgreSQL)  
 - Interfaces gráficas con PySide6  
-- Desarrollo web con HTML · CSS · JavaScript · Django  
+- Desarrollo web con HTML · CSS · JavaScript · Django · Django React.
 - Explorando: Arquitectura en la nube ☁️
 
 
