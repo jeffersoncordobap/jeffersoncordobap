@@ -6,7 +6,7 @@
 ### 💡 Tecnologías y herramientas:
 - Python · POO · Git · GitHub  
 - Bases de datos (MySQL, PostgreSQL)  
-- Interfaces gráficas con PySide6  
+- Aplicaciones de escritorio con PySide6  
 - Desarrollo web con HTML · CSS · JavaScript · Django · React.
 - Explorando: Arquitectura en la nube ☁️
 
