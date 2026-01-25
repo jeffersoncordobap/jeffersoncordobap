@@ -17,7 +17,7 @@
 - Small to medium applications designed with a software engineering mindset
 
 ## 📫 Contact
-- [LinkedIn](https://linkedin.com/in/jefferson-johan-cordoba-pinchao-54238a373)
+- [LinkedIn](www.linkedin.com/in/jefferson-cordoba-54238a373)
 - 📧 jeffersoncordobap@gmail.com
 
 ---
