@@ -1,21 +1,26 @@
-# 👋 ¡Hola! Soy Jefferson Johan Cordoba Pinchao
+# 👋 Hi, I'm Jefferson Johan Cordoba Pinchao
 
-🎓 Estudiante de Ingeniería de Sistemas en la Universidad de Nariño  
-💻 Apasionado por el desarrollo de software, el aprendizaje constante y la tecnología
+🎓 Systems Engineering student at Universidad de Nariño  
+💻 Focused on backend development, software design, and problem-solving through code
 
-### 💡 Tecnologías y herramientas:
-- Python · POO · Git · GitHub  
-- Bases de datos (MySQL, PostgreSQL)  
-- Aplicaciones de escritorio con PySide6  
-- Desarrollo web con HTML · CSS · JavaScript · Django · React.
-- Explorando: Arquitectura en la nube ☁️
+## 💡 Technologies & Skills
+- **Python** · Object-Oriented Programming · Git · GitHub  
+- **Data Structures & Algorithms**  
+- **Relational Databases**: PostgreSQL · MySQL · SQLite  
+- **Desktop Applications** with PySide6  
+- **Web Development**: HTML · CSS · JavaScript · Django · React  
+- Currently exploring **Cloud Architecture** ☁️
 
+## 🛠️ What I work on
+- Academic and practical projects focused on clean code and software structure  
+- Implementations of data structures and backend-oriented applications  
+- Small to medium applications designed with a software engineering mindset
 
-### 📫 Conectemos:
-- [LinkedIn](linkedin.com/in/jefferson-johan-cordoba-pinchao-54238a373)
+## 📫 Contact
+- [LinkedIn](https://linkedin.com/in/jefferson-johan-cordoba-pinchao-54238a373)
 - 📧 jeffersoncordobap@gmail.com
 
 ---
+Thanks for visiting my profile!💙
 
-Gracias por visitar mi perfil 💙
 
